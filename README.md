@@ -1,26 +1,28 @@
 <div>
-<table>
-    <thead align="center">
-        <tr>
-            <td rowspan="3">
-                <img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="10px" vspace="0px">
-            </td>
-            <td rowspan="3">
-                <img alt="II" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" hspace="0px" vspace="0px">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h1><b>Posgrados</b></h1>
-                <h1><b>Simulación Basada en Agentes</b></h1>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img alt="I&S" height="135px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/IS.png" hspace="10px" vspace="0px">
-            </td>
-        </tr>
-    </thead>
+<table><thead>
+  <tr>
+    <th rowspan="2">
+		<img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="10px" vspace="0px">
+	</th>
+    <th>
+		<h1><b>Posgrados - Simulación Basada en Agentes</b></h1>
+	</th>
+    <th rowspan="2">
+		<img alt="II" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" hspace="0px" vspace="0px">
+	</th>
+  </tr>
+  <tr>
+    <th>
+		<h1><b>Simulación Basada en Agentes</b></h1>
+	</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="3">
+		<img alt="I&S" height="135px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/IS.png" hspace="10px" vspace="0px">
+	</td>
+  </tr>
+</tbody>
 </table>
 
 </div>
