@@ -1,5 +1,5 @@
 <div>
-<table><thead>
+<table><thead align="center">
   <tr>
     <th rowspan="2">
 		<img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="10px" vspace="0px">
